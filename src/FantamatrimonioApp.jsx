@@ -5,7 +5,6 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { formatDistanceToNowStrict } from "date-fns";
-// ... (contenuto completo disponibile nel canvas reale)
 export default function FantamatrimonioApp() {
   // ...
 }
